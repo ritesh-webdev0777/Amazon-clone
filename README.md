@@ -21,3 +21,8 @@ The project focuses on building a responsive layout and practicing real-world UI
 ---
 
 ## 📂 Project Structure
+amazon-clone/
+│── index.html
+│── style.css
+│── images/
+└── README.md
